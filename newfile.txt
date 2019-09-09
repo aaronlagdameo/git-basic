@@ -5,3 +5,5 @@
     - `add` basically puts the changes to the index/staging area
     - `commit` adds the changes to the local repository
     - `push` transfer/updates the changes from the local repository to the upstream repository 
+    
+## This is a change made in GitHub...
