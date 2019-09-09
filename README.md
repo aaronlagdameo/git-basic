@@ -28,4 +28,8 @@ Other useful commands to see what is going on the git repository:
 
 ## Practice Output 
 1. Your repo url in Github
+    - https://github.com/aaronlagdameo/git-basic 
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+    - `add` basically puts the changes to the index/staging area
+    - `commit` adds the changes to the local repository
+    - `push` transfer/updates the changes from the local repository to the upstream repository 
